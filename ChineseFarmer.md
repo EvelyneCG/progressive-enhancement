@@ -2,6 +2,12 @@
 <html>
 <head>
    <meta charset="utf-8">
+   <style>
+p {
+font-family: "Times New Roman", Times, serif;
+word-spacing: 5px;
+font-size: 12px;
+</style>
 </head>
 <body>
    <header>
