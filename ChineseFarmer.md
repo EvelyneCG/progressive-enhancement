@@ -89,6 +89,7 @@ May 11, 2016, Alexandre Gorius
 
 <hr>
 <footer>Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href="https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/">The story of the Chinese Farmer.</a>
+   All the meaning of my HTML tags are over there: <a href="https://github.com/EvelyneCG/progressive-enhancement/blob/main/README.md">README.md</a>
 </footer>
 </body>
 </html>
