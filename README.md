@@ -2,8 +2,9 @@
 
 # The origin of the Tag name
 
-* H1-H6 
-	Represent headings and subheadings. These elements rank in importance according to the number in their name. The h1 element is said to have the highest rank, the h6 element has the lowest rank, and two elements with the same name have equal rank.
+* *H1-H6* 
+
+Represent headings and subheadings. These elements rank in importance according to the number in their name. The h1 element is said to have the highest rank, the h6 element has the lowest rank, and two elements with the same name have equal rank.
 
 * blockquote
 	The blockquote element represents a section that is quoted from another source.
