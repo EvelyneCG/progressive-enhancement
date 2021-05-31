@@ -2,7 +2,7 @@
 <html>
 <head>
    <meta charset="utf-8">
-  <link rel="stylesheet" href="ChineseFarmer.css" />
+  <link rel="stylesheet" href="ChineseFarmer.css">
 </head>
 <body>
    <header>
@@ -42,9 +42,8 @@ May 11, 2016, Alexandre Gorius
 
 <figure>
 <img src="https://cdn-images-1.medium.com/max/800/1*IQqkmPXYZuJViY5p-ymk0A.jpeg" alt="vieux fermier">
-<figcaption>"The Old Chinese Farmer"</figcaption>
 </figure>
-
+<figcaption>"The Old Chinese Farmer"</figcaption>
 
 <p>Once upon a time there was a Chinese farmer whose horse ran away. That evening, all of his neighbors came around to commiserate. They said, <q>We are so sorry to hear your horse has run away. This is most unfortunate.</q> The farmer said, <q>Is it <span class="good">good</span>? Is it <span class="bad">bad</span>? I don't know.</q> The next day the horse came back bringing seven wild horses with it, and in the evening everybody came back and said, <q>Oh, isn’t that lucky. What a great turn of events. You now have eight horses!</q> The farmer again said, <q>Is it <span class="good">good</span>? Is it <span class="bad">bad</span>? I don't know.</q> </p>
 
