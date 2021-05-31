@@ -2,7 +2,6 @@
 <html>
 <head>
    <meta charset="utf-8">
-   <title>The Story of the Chinese Farmer.</title>
 </head>
 <body>
    <header>
