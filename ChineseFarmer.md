@@ -88,7 +88,7 @@ May 11, 2016, Alexandre Gorius
 <p><q><span class="good">Good</span> and <span class="bad">Bad</span> are just one perspective. Bananas are <span class="good">good</span> for monkeys, but monkeys are not <span class="good">good</span> for bananas. Let's not make a big deal out of it...</q></p>
 
 <hr>
-<footer>Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href="https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/">The story of the Chinese Farmer.</a>
+<footer>Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href="https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target="_blank" title="Link to the original text">The story of the Chinese Farmer.</a>
    All the meaning of my HTML tags are over there: <a href="https://github.com/EvelyneCG/progressive-enhancement/blob/main/README.md">README.md</a>
 </footer>
 </body>
