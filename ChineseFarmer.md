@@ -2,7 +2,7 @@
 <html>
 <head>
    <meta charset="utf-8">
-  <link rel="stylesheet" href="ChineseFarmer.css">
+  <link rel="stylesheet" type="text/css" href="ChineseFarmer.css">
 </head>
 <body>
    <header>
