@@ -8,16 +8,16 @@
       <h1>The Story of the Chinese Farmer</h1>
 
 <blockquote>
-<q>Is it a good thing? Is that a bad thing? I don't know.</q>
+<q>Is it a <span class="good">good</span> thing? Is that a <span class="bad">bad</span> thing? I don't know.</q>
 May 11, 2016, Alexandre Gorius
 </blockquote>
 </header>
 
-<h2>In nature, Good & Evil do not exist. The Universe itself is neither good nor bad, but a potential in permanent development.</h2>
+<h2>In nature, <span class="good">Good</span> & Evil do not exist. The Universe itself is neither <span class="good">good</span> nor <span class="bad">bad</span>, but a potential in permanent development.</h2>
 
 <ul>
    <p>In life, there are 4 types of people.</p>
-<li>people who think the Internet is good,</li>
+<li>people who think the Internet is <span class="good">good</span>,</li>
 <li>people who think the Internet is evil,</li>
 <li>people who think the Internet is cats,</li>
 <li>people who don't think about it.</li>
@@ -45,11 +45,11 @@ May 11, 2016, Alexandre Gorius
 </figure>
 
 
-<p>Once upon a time there was a Chinese farmer whose horse ran away. That evening, all of his neighbors came around to commiserate. They said, <q>We are so sorry to hear your horse has run away. This is most unfortunate.</q> The farmer said, <q>Is it good? Is it bad? I don't know.</q> The next day the horse came back bringing seven wild horses with it, and in the evening everybody came back and said, <q>Oh, isn’t that lucky. What a great turn of events. You now have eight horses!</q> The farmer again said, <q>Is it good? Is it bad? I don't know.</q> </p>
+<p>Once upon a time there was a Chinese farmer whose horse ran away. That evening, all of his neighbors came around to commiserate. They said, <q>We are so sorry to hear your horse has run away. This is most unfortunate.</q> The farmer said, <q>Is it <span class="good">good</span>? Is it <span class="bad">bad</span>? I don't know.</q> The next day the horse came back bringing seven wild horses with it, and in the evening everybody came back and said, <q>Oh, isn’t that lucky. What a great turn of events. You now have eight horses!</q> The farmer again said, <q>Is it <span class="good">good</span>? Is it <span class="bad">bad</span>? I don't know.</q> </p>
 
-<p>The following day his son tried to break one of the horses, and while riding it, he was thrown and broke his leg. The neighbors then said, <q>Oh dear, that’s too bad,</q> and the farmer responded, <q>Is it good? Is it bad? I don't know.</q> The next day the conscription officers came around to conscript people into the army, and they rejected his son because he had a broken leg. Again all the neighbors came around and said, <q>Isn’t that great!</q> Again, he said, <q>Is it good? Is it bad? I don't know.</q></p>
+<p>The following day his son tried to break one of the horses, and while riding it, he was thrown and broke his leg. The neighbors then said, <q>Oh dear, that’s too <span class="bad">bad</span>,</q> and the farmer responded, <q>Is it <span class="good">good</span>? Is it <span class="bad">bad</span>? I don't know.</q> The next day the conscription officers came around to conscript people into the army, and they rejected his son because he had a broken leg. Again all the neighbors came around and said, <q>Isn’t that great!</q> Again, he said, <q>Is it <span class="good">good</span>? Is it <span class="bad">bad</span>? I don't know.</q></p>
 
-<p>The whole process of nature is an integrated process of immense complexity, and it’s really impossible to tell whether anything that happens in it is good or bad — because you never know what will be the consequence of the misfortune; or, you never know what will be the consequences of good fortune.</p>
+<p>The whole process of nature is an integrated process of immense complexity, and it’s really impossible to tell whether anything that happens in it is <span class="good">good</span> or <span class="bad">bad</span> — because you never know what will be the consequence of the misfortune; or, you never know what will be the consequences of <span class="good">good</span> fortune.</p>
 
 <p>Alan Watts</p>
 </blockquote>
@@ -62,7 +62,7 @@ May 11, 2016, Alexandre Gorius
 
 <tr>
    <th>Event</th>
-   <th>Good or Bad ?</th>
+   <th><span class="good">Good</span> or <span class="bad">Bad</span> ?</th>
 </tr>
 <tr>
    <th>Lose a horse</th>
@@ -85,7 +85,7 @@ May 11, 2016, Alexandre Gorius
   
    
 <p>Conclusion:</p> 
-<p><q>Good and Bad are just one perspective. Bananas are good for monkeys, but monkeys are not good for bananas. Let's not make a big deal out of it...</q></p>
+<p><q><span class="good">Good</span> and <span class="bad">Bad</span> are just one perspective. Bananas are <span class="good">good</span> for monkeys, but monkeys are not <span class="good">good</span> for bananas. Let's not make a big deal out of it...</q></p>
 
 <hr>
 <footer>Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href="https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/">The story of the Chinese Farmer.</a>
