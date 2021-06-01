@@ -2,7 +2,8 @@
 <html>
 <head>
    <meta charset="utf-8">
-  <link rel="stylesheet" href="ChineseFarmer.css">
+   <title>The Story of the Chinese Farmer.</title>
+    <link rel="stylesheet" href="ChineseFarmer.css">
 </head>
 <body>
    <header>
@@ -46,13 +47,13 @@ May 11, 2016, Alexandre Gorius
 </figure>
 
 <blockquote>
+   
+
 <p>Once upon a time there was a Chinese farmer whose horse ran away. That evening, all of his neighbors came around to commiserate. They said, <q>We are so sorry to hear your horse has run away. This is most unfortunate.</q> The farmer said, <q>Is it <span class="good">good</span>? Is it <span class="bad">bad</span>? I don't know.</q> The next day the horse came back bringing seven wild horses with it, and in the evening everybody came back and said, <q>Oh, isn’t that lucky. What a great turn of events. You now have eight horses!</q> The farmer again said, <q>Is it <span class="good">good</span>? Is it <span class="bad">bad</span>? I don't know.</q> </p>
-
 <p>The following day his son tried to break one of the horses, and while riding it, he was thrown and broke his leg. The neighbors then said, <q>Oh dear, that’s too <span class="bad">bad</span>,</q> and the farmer responded, <q>Is it <span class="good">good</span>? Is it <span class="bad">bad</span>? I don't know.</q> The next day the conscription officers came around to conscript people into the army, and they rejected his son because he had a broken leg. Again all the neighbors came around and said, <q>Isn’t that great!</q> Again, he said, <q>Is it <span class="good">good</span>? Is it <span class="bad">bad</span>? I don't know.</q></p>
-
 <p>The whole process of nature is an integrated process of immense complexity, and it’s really impossible to tell whether anything that happens in it is <span class="good">good</span> or <span class="bad">bad</span> — because you never know what will be the consequence of the misfortune; or, you never know what will be the consequences of <span class="good">good</span> fortune.</p>
-
 <p>Alan Watts</p>
+
 </blockquote>
 
 <hr>
@@ -90,7 +91,7 @@ May 11, 2016, Alexandre Gorius
 
 <hr>
 <footer>Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href="https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" title="Link to the original text" target="_blank">The story of the Chinese Farmer.</a>
-   All the meaning of my HTML tags are over there: <a href="https://github.com/EvelyneCG/progressive-enhancement/blob/main/README.md">README.md</a>
+   All the meaning of my HTML tags are over there: <a href="https://github.com/EvelyneCG/progressive-enhancement/blob/main/README.md" target="_blank" title="Link to my README">README.md</a>. Here is my <a href="https://github.com/EvelyneCG/progressive-enhancement/blob/main/ChineseFarmer.css" target="_blank" title="Link to the CSS">CSS</a>. And finally my <a href="https://github.com/EvelyneCG/progressive-enhancement/blob/main/The%20Story%20of%20the%20Chinese%20Farmer.html" target="_blank" title="Link to the HTML">HTML</a>.
 </footer>
 </body>
 </html>

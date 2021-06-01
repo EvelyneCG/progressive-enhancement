@@ -1,6 +1,127 @@
 p {
 font-family: "Times New Roman", Times, serif;
 word-spacing: 5px;
-font-size: 40px;
+font-size: 18px;
+color: #302B70;
 }
+
+a:link {
+  color: green;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: purple;
+}
+
+a:active {
+  color: blue;
+}
+
+body {
+
+max-width: 90%;
+margin: auto;
+background-image: linear-gradient(to right, #D8E7F2, #F2F3C0 , #F2A9A7);
+background: url(https://voyagista.fr/wp-content/uploads/2014/03/hakkoda-161.jpg) right bottom no-repeat;
+background-size: cover;
+}
+
+blockquote {
+	max-width: 45%;
+	margin: auto;
+	font-size: 160%;
+	background-color: lightgrey;
+	border-color: firebrick;
+	border-left: 3px solid;
+	padding: 80px 30px 80px 30px;
+
+}
+
+.quote {
+font-style: italic;
+}
+
+.quotevillager {
+	border-left: 2px solid;
+border-color: yellow;
+	
+}
+
+.quotefarmer {
+	border-left: 2px solid;
+border-color: red;
+	
+}
+
+.titre {
+	background-color: yellow;
+}
+
+.good {
+	text-transform: capitalize;
+	 color: green;
+}
+
+.bad {
+	text-transform: capitalize;
+	 color: red;
+}
+
+tr:nth-child(even) {
+	background-color: #ffffff;
+}
+
+table {
+	background-color: lightgrey;
+}
+
+li:nth-child(1) {
+    margin: 0;
+    padding: 15px 0 15px 80px;
+    background-image: url(https://raw.githubusercontent.com/EvelyneCG/CRL-Keller-3.31/master/Assets/bien.png?token=AUBMNEVUDPLNWWAC7UWZSZ3AX55D6);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 40px;
+    list-style-type: none;
+    text-indent: -35px;
+}
+
+li:nth-child(2) {
+    margin: 0;
+    padding: 15px 0 15px 80px;
+    background-image: url(https://raw.githubusercontent.com/EvelyneCG/CRL-Keller-3.31/master/Assets/mal.png?token=AUBMNET2JIQAAYO53VOH423AX55BK);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 40px;
+    list-style-type: none;
+    text-indent: -35px;
+}
+
+li:nth-child(3) {
+    margin: 0;
+    padding: 15px 0 15px 80px;
+    background-image: url(https://raw.githubusercontent.com/EvelyneCG/CRL-Keller-3.31/master/Assets/chat.png?token=AUBMNEXDVNHRSL7OMDWNEYTAX55DC);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 40px;
+    list-style-type: none;
+    text-indent: -35px;
+}
+
+li:nth-child(4) {
+    text-indent: 10px;
+margin-left: 31px;
+}
+
+.par1 {
+	font-weight: bold;
+}
+
+
+
+
 
